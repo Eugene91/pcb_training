@@ -3140,6 +3140,7 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 171.45 97.79) (xy 171.45 96.52)
 		)
 		(stroke
@@ -3150,6 +3151,8 @@
 	)
 	(wire
 		(pts
+=======
+>>>>>>> refs/remotes/origin/main
 			(xy 92.71 24.13) (xy 92.71 27.94)
 		)
 		(stroke
@@ -5296,7 +5299,11 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
+<<<<<<< HEAD
 		(at 92.71 39.37 90)
+=======
+		(at 92.71 31.75 90)
+>>>>>>> refs/remotes/origin/main
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5305,7 +5312,11 @@
 		(fields_autoplaced yes)
 		(uuid "6759916f-692e-4d15-bc06-87289b5d4171")
 		(property "Reference" "D3"
+<<<<<<< HEAD
 			(at 96.52 39.6874 90)
+=======
+			(at 96.52 32.0674 90)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5314,7 +5325,11 @@
 			)
 		)
 		(property "Value" "LED"
+<<<<<<< HEAD
 			(at 96.52 42.2274 90)
+=======
+			(at 96.52 34.6074 90)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5323,7 +5338,11 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
+<<<<<<< HEAD
 			(at 92.71 39.37 0)
+=======
+			(at 92.71 31.75 0)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5332,7 +5351,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 92.71 39.37 0)
+=======
+			(at 92.71 31.75 0)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5341,7 +5364,11 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+<<<<<<< HEAD
 			(at 92.71 39.37 0)
+=======
+			(at 92.71 31.75 0)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5350,7 +5377,11 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+<<<<<<< HEAD
 			(at 92.71 39.37 0)
+=======
+			(at 92.71 31.75 0)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5365,7 +5396,11 @@
 			(uuid "3cf68d35-db99-42d0-8a61-24a492852864")
 		)
 		(instances
+<<<<<<< HEAD
 			(project "LFAmp-offset"
+=======
+			(project ""
+>>>>>>> refs/remotes/origin/main
 				(path "/393cb05a-92c1-4d36-8b2e-3dda6e9e550e"
 					(reference "D3")
 					(unit 1)
@@ -6443,7 +6478,11 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+<<<<<<< HEAD
 		(at 92.71 31.75 0)
+=======
+		(at 92.71 39.37 0)
+>>>>>>> refs/remotes/origin/main
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6452,7 +6491,11 @@
 		(fields_autoplaced yes)
 		(uuid "9bf257fa-52df-49c5-aade-9b15f9839308")
 		(property "Reference" "R12"
+<<<<<<< HEAD
 			(at 95.25 30.4799 0)
+=======
+			(at 95.25 38.0999 0)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6461,7 +6504,11 @@
 			)
 		)
 		(property "Value" "50kR"
+<<<<<<< HEAD
 			(at 95.25 33.0199 0)
+=======
+			(at 95.25 40.6399 0)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6470,7 +6517,11 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+<<<<<<< HEAD
 			(at 90.932 31.75 90)
+=======
+			(at 90.932 39.37 90)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6479,7 +6530,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 92.71 31.75 0)
+=======
+			(at 92.71 39.37 0)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6488,7 +6543,11 @@
 			)
 		)
 		(property "Description" "Resistor"
+<<<<<<< HEAD
 			(at 92.71 31.75 0)
+=======
+			(at 92.71 39.37 0)
+>>>>>>> refs/remotes/origin/main
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -51,6 +51,7 @@
           "min_clearance": 0.5
         }
       },
+<<<<<<< HEAD
       "diff_pair_dimensions": [
         {
           "gap": 0.0,
@@ -64,6 +65,10 @@
           ""
         ]
       ],
+=======
+      "diff_pair_dimensions": [],
+      "drc_exclusions": [],
+>>>>>>> refs/remotes/origin/main
       "meta": {
         "version": 2
       },
@@ -191,12 +196,16 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
+<<<<<<< HEAD
       "track_widths": [
         0.0,
         0.25,
         0.5,
         1.0
       ],
+=======
+      "track_widths": [],
+>>>>>>> refs/remotes/origin/main
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -223,12 +232,16 @@
           "spacing": 0.6
         }
       },
+<<<<<<< HEAD
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
         }
       ],
+=======
+      "via_dimensions": [],
+>>>>>>> refs/remotes/origin/main
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -605,6 +618,7 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+<<<<<<< HEAD
         },
         {
           "group_by": false,
@@ -617,6 +631,8 @@
           "label": "Sim.Name",
           "name": "Sim.Name",
           "show": false
+=======
+>>>>>>> refs/remotes/origin/main
         }
       ],
       "filter_string": "",

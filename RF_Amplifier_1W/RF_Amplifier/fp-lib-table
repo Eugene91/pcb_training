@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Bnc")(type "KiCad")(uri "${KIPRJMOD}/Bnc")(options "")(descr ""))
+)
